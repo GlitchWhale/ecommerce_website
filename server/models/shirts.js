@@ -4,7 +4,7 @@ let shirtsSchema = new mongoose.Schema(
     {
         name: {type: String},
         category: {type: String},
-        colour: {type: String},
+        color: {type: String},
         description: {type: String},
         gender: {type: String},
         image: {type: String},
